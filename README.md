@@ -1,2 +1,2 @@
 # QuizVerse
-A web project for Trivia enthusiats to enjoy
+A web project for Trivia enthusiasts to enjoy
